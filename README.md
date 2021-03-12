@@ -1,10 +1,10 @@
-#netilion-all-example
+This is an example application demonstrating how to use netilion-all Javascript package.  
 
-This is an example application demonstrating how to use netilion-all Javascript package.
-NPM: https://www.npmjs.com/package/netilion-all
-This package is just a helper for accessing Netilion REST endpoints with Javascript.
-https://api.staging-env.iiot.endress.com/doc/v1/ (staging)
-or 
+NPM: https://www.npmjs.com/package/netilion-all  
+
+This package is just a helper for accessing Netilion REST endpoints with Javascript.  
+https://api.staging-env.iiot.endress.com/doc/v1/ (staging)  
+or  
 https://api.iiot.endress.com/doc/v1/ (productive)
 
 This example uses yarn, but package can be also used with npm.  
