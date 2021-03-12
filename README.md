@@ -22,3 +22,5 @@ E.g.:
 Valid Netilion user
 * PASS
 Password for the aforementioned user
+
+3. Execute `node index.js`. List of Netilion assets available to the user will be shown.
