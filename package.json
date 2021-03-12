@@ -1,0 +1,13 @@
+{
+  "name": "carmen_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "netilion-all": "^1.0.6"
+  }
+}
